@@ -3,7 +3,7 @@ Counter specs:
 Input: 2
 Output: 1,2
 
-## behavior: user inputs number and every number that is divisible by 3 when displayed with replaced by ping.
+## behavior: user inputs number and every number that is divisible by 3 is replaced with ping.
 Input: 10
 Output: 1,2,ping,4,5,ping,7,8,ping,10
 
