@@ -1,7 +1,8 @@
 var result = function(number) {
-  var output = "";
-  if (number < 3) {
-    return "1,2"
+var count;
+for(count = 0; count <= number; count++){
+  document.write(count + ",");
+  document.write("<br/>")
   }
 }
 
