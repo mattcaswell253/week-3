@@ -11,6 +11,10 @@ body {
   background-size: cover;
 }
 
+label {
+  color: orange;
+}
+
 #list {
   color: red;
   font-weight: bold;
